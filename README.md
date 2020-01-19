@@ -1,2 +1,2 @@
 # BikeSharingForecast
-In this project, I conducted SAS analysis of the Washington, DC Bike Sharing Datashet
+In this project, I conducted analysis of the Washington, DC Bike Sharing Dataset employing SAS.
